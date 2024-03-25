@@ -1,4 +1,4 @@
-package week1_Variables_Scanner_DataCasting;
+package week1_Variables_Scanner;
 
 import java.util.Scanner;
 
